@@ -1,0 +1,25 @@
+{
+  "name": "cron-schedular",
+  "version": "1.0.0",
+  "description": "Telda Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js " ,
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedashraf97/cron-schedular.git"
+  },
+  "author": "Mohamed Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedashraf97/cron-schedular/issues"
+  },
+  "homepage": "https://github.com/mohamedashraf97/cron-schedular#readme",
+  "dependencies": {
+    "mocha": "^9.1.3",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
