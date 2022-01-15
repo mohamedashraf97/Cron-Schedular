@@ -2,4 +2,4 @@ module.exports = ()=>{
     return "Goodbye!!";
     }
 
-//console.log('Goodbye!!');
+console.log('Goodbye!!');

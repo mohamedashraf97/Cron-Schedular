@@ -5,11 +5,11 @@ module.exports = {
 
     },
     goodbye:{
-        frequency: "4 * * * *",
+        frequency: "* * * * *",
         handler: "handlers/saygoodbye"
     },
     tacos:{
-        frequency: "4 * * * *",
+        frequency: "* * * * *",
         handler: "handlers/tacos"
     },
 }
